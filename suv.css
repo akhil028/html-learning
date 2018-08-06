@@ -1,0 +1,35 @@
+h1 {
+    background-color:black;
+    color:white;
+    text-align:center;
+    font-family: "Times New Roman", Times, serif;
+}
+
+h2 {
+    background-color:lightgoldenrodyellow;
+    color:red;
+    text-align:center;
+    font-family:'Times New Roman', Times, serif;    
+}
+
+h3{
+    font-style: italics;
+    background-color: red;
+    color: white;
+    text-align: center;
+}
+
+p {
+    font-style: oblique;
+    background-color: lightgreen;
+    color:lightseagreen;
+}
+
+.pararr {
+    color: lightsteelblue;
+    font-style: italics;
+    font-size: 16px;
+}
+body {
+    back-ground:lightblue;
+}
